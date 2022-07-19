@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **Unity projects**
 
-- 🌱 I’m currently learning **C++, C#, Unity**
+- 🌱 I’m currently learning **C#, Unity**
 
-- 💬 Ask me about **C#, Unity**
+- 💬 Ask me about **C++, Unity**
 
 - 📫 How to reach me **michal_brodziak@interia.pl**
 
