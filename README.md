@@ -4,9 +4,9 @@
 <h5 align="center">After Unity and C# I want to study .Net and JavaScript</h5>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif">
 
-- 🔭 I’m currently working on **Unity projects**
+- 🔭 I’m currently working on **Unity projects and expanding my C++ knowledge**
 
-- 🌱 I’m currently learning **C#, Unity**
+- 🌱 I’m currently learning **C#, Unity, C++**
 
 - 💬 Ask me about **C++, Unity**
 
