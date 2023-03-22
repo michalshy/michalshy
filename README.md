@@ -22,6 +22,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michalshy&show_icons=true&locale=en" alt="michalshy" /></p>
 
-![run right](https://user-images.githubusercontent.com/91937056/226870422-6cd76912-98f3-4ce1-8be4-0e95169b5105.gif)
+<img align="left" alt="Coding" width="400" src="https://user-images.githubusercontent.com/91937056/226865464-02e27f23-ffac-4a05-b87a-df1173cdea6a.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/91937056/226865464-02e27f23-ffac-4a05-b87a-df1173cdea6a.gif">
 
-![nowy bieg prawo](https://user-images.githubusercontent.com/91937056/226865464-02e27f23-ffac-4a05-b87a-df1173cdea6a.gif)
