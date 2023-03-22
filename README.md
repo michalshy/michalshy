@@ -21,3 +21,6 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michalshy&show_icons=true&locale=en" alt="michalshy" /></p>
+
+
+![nowy bieg prawo](https://user-images.githubusercontent.com/91937056/226865464-02e27f23-ffac-4a05-b87a-df1173cdea6a.gif)
