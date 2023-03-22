@@ -8,6 +8,8 @@
 
 - 🌱 I’m currently learning **C#, Unity, C++**
 
+- Current project - Bastard (2d metroidvania game made with Unity) and Ant Colony Simulator (made with SFML and C++)
+
 - 💬 Ask me about **C++, Unity**
 
 - 📫 How to reach me **michal_brodziak@interia.pl**
