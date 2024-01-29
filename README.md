@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working on **Unity projects and expanding my C++ knowledge**
 
-- 🌱 I’m currently learning **C#, Unity, C++**
+- 🌱 I’m currently learning **C#, Unity, C++, CMake, Mojo, Python**
 
-- Current project - Bastard (2d metroidvania game made with Unity) and Ant Colony Simulator (made with SFML and C++)
+- Current projects - remake of Ant Colony Simulator in Unity and C# as my Bachelor degree final project
 
-- 💬 Ask me about **C++, Unity**
+- 💬 Ask me about **C++, Unity, CMake**
 
-- 📫 How to reach me **michal_brodziak@interia.pl**
+- 📫 How to reach me **michal.brodziakw@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
