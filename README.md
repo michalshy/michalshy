@@ -38,6 +38,7 @@
 <hr>
 
 <h3>Literature:</h3>
+<h4>Programming - Bjarne Stroustrup</h4>
 <h4>Design patterns: elements of reusable object-oriented software (in progress)</h4>
 
 <hr>
