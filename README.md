@@ -45,6 +45,14 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michalshy&show_icons=true&locale=en" alt="michalshy" /></p>
 
+<div align-items="center">
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/michalshy/langs?time_range=one_year&loc_metric=changed&theme=dark)](https://githubtrends.io)	
+</div>
 <h3 align="center"> My unfinished video game Bastard animations which I am really proud of </h3>
-<img align="left" alt="Coding" width="150" src="https://user-images.githubusercontent.com/91937056/226870857-d61e4ca2-b924-43ad-852b-2cb1545987e3.gif">
-<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/91937056/226865464-02e27f23-ffac-4a05-b87a-df1173cdea6a.gif">
+<img align="left" alt="Coding" width="300" src="https://user-images.githubusercontent.com/91937056/226870857-d61e4ca2-b924-43ad-852b-2cb1545987e3.gif">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/91937056/226865464-02e27f23-ffac-4a05-b87a-df1173cdea6a.gif">
+	
+
+
+
