@@ -3,20 +3,20 @@
 <h4 align="center">I'm focused on self-development and learning new things</h4>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif">
 
-- 🔭 I’m currently working on ** Small Vulkan projects and collage assignments **
+- 🔭 I’m currently working on ** AGV Simulator(Python), Bump Application(Kotlin) and StackSrcaper(C++) **
 
 - 🌱 I’m currently learning **C++/C, CMake, Python, Kotlin, Vulkan**
 
-- Current projects - Ant Colony Simulator in C#/Unity, Bump in Kotlin, Vulkan and Tensorflow tutorials
+- Current projects - Bump in Kotlin, AGV Sim in Python, Stack Scraper in C++, GameJam game in Unity, my Unity game and Vulkan, Tensorflow tutorials
 
-- 💬 Ask me about **C++/C, Python**
+- 💬 Ask me about **C++/C, Python, CMake**
 
 - 📫 How to reach me **michal.brodziakw@gmail.com**
 
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
-<h4 align="left">C++, C, Python, Git, SVN, Linux, CMake, Kotlin</h4>
+<h4 align="left">C++, C, Python, Git, SVN, Linux, CMake, Kotlin, GitHub, GitLab, Android Studio, VSC, C#, Microsoft Azure, Tensorflow, Unity, Windows, Linux, DTLS, OpenSSL, mBedTLS</h4>
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
@@ -38,7 +38,7 @@
 <hr>
 
 <h3>Literature:</h3>
-<h4>Programming - Bjarne Stroustrup</h4>
+<h4>Programming - Bjarne Stroustrup (in progress)</h4>
 <h4>Design patterns: elements of reusable object-oriented software (in progress)</h4>
 
 <hr>
