@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Michał Brodziak</h1>
-<h3 align="center">A software designer from Poland</h3>
-<h4 align="center">I'm focused on self-development and learning new things</h4>
+<h3 align="center">Software designer from Poland</h3>
+<h4 align="center">I'm keen on self-development and learning new things</h4>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif">
 
 - 🔭 I’m currently working on ** AGV Simulator(Python), Bump Application(Kotlin) and StackSrcaper(C++) **
