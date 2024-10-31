@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Michał Brodziak</h1>
 <h3 align="left">Software designer from Poland,</h3>
-<h4 align="left">with a focus on building efficient and robust systems. 
+<h4 align="left">focused on building efficient and robust systems. 
 	With a solid foundation in C and C++, I've crafted solutions that prioritize performance and reliability. 
 	I also have experience with Python, which I use for scripting, automation, and data-related tasks.</h4>
 
