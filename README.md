@@ -6,6 +6,9 @@
 
 
 <p><i>First, solve the problem. Then, write the code.</i></p>
+
+
+
 <h4>Technologies I work with:</h4>
 
 - C++
@@ -35,8 +38,12 @@ Design patterns: elements of reusable object-oriented software, <br>
 </p>
 
 <hr>
-
- <center><img src="https://github-readme-stats.vercel.app/api?username=michalshy&show_icons=true&locale=en" alt="michalshy" /></center>
+<div class='container'>
+<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=michalshy&show_icons=true&theme=blue-green" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michalshy&theme=blue-green&langs_count=8&layout=compact" /></div>
+</div>
 
 
 <h3 align="center"> My unfinished video game Bastard animations which I am really proud of </h3>
