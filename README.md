@@ -19,7 +19,6 @@
 
 - Rust
 - Go
-- Deno
 - TS
 
 <h4>Tools and concepts I am familiar with:</h4>
