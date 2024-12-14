@@ -18,7 +18,6 @@
 <h4>Technologies I learn:</h4>
 
 - Rust
-- Go
 - TS
 
 <h4>Tools and concepts I am familiar with:</h4>
