@@ -14,6 +14,7 @@
 - C++
 - C
 - Python
+- C#
 
 <h4>Technologies I learn:</h4>
 
@@ -23,6 +24,8 @@
 <h4>Tools and concepts I am familiar with:</h4>
 
 - Git
+- Unity
+- Godot
 - CMake
 - Linux
 - OOP
