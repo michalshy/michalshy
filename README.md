@@ -33,26 +33,5 @@
 
 <hr>
 
-<h5>My library:</h5>
-<p>
-The Rust Programming Language, <br>
-Programming - Bjarne Stroustrup, <br>
-Design patterns: elements of reusable object-oriented software, <br>
-</p>
-
-<hr>
-<div class='container'>
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=michalshy&show_icons=true&theme=blue-green" />
-&nbsp;
-&nbsp;
-<img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michalshy&theme=blue-green&langs_count=8&layout=compact&exclude_repo=michaels-blog" /></div>
-</div>
-
-
-<h3 align="center"> My unfinished video game Bastard animations which I am really proud of </h3>
-<img align="left" alt="Coding" width="300" src="https://user-images.githubusercontent.com/91937056/226870857-d61e4ca2-b924-43ad-852b-2cb1545987e3.gif">
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/91937056/226865464-02e27f23-ffac-4a05-b87a-df1173cdea6a.gif">
-	
-
 
 
